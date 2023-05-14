@@ -35,5 +35,8 @@
   "homepage": "https://github.com/IgorHulyaschy/typeorm-event-souring#readme",
   "keywords": ["typeorm", "event-soursing", "domain-events", "aggregate"],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ddd"
+  }
 }
