@@ -1,0 +1,1 @@
+{"version":3,"file":"Entity.d.ts","sourceRoot":"","sources":["../../src/typeorm-utils/Entity.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,WAAW,CAAA;AAEjC,OAAO,EAAE,KAAK,EAAE,MAAM,YAAY,CAAA;AAElC,wBAAgB,qBAAqB,CAAC,SAAS,EAAE,MAAM,GAAG,KAAK,CAAC,KAAK,CAAC,GAAG,CAAC,CAAC,CAiC1E;AAMD,wBAAgB,gBAAgB,CAAC,KAAK,EAAE,KAAK,GAAG,OAAO,CAEtD"}
